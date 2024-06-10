@@ -1,3 +1,7 @@
 nginx
 openjdk:8
-jumpserver/core:v2.28.1
+jumpserver
+redis
+mysql
+nacos
+
