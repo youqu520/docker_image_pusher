@@ -9,12 +9,10 @@ jumpserver
 redis:6.0.5
 redis:6.2
 redis:7.0
-nacos
 mysql:5.7.44
 mysql:8.0.32
 mysql:8.0.33
 mysql:5.7.32
-
 mongo:5.0.18
 jumpserver/redis:6.2
 jumpserver/mariadb:10.6
