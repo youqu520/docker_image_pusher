@@ -1,3 +1,1 @@
-ubuntu:latest
-centos:7
-centos:8
+rabbitmq:management
