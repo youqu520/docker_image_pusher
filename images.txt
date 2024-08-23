@@ -1,1 +1,4 @@
-rabbitmq:management
+dongtai/dongtai-web
+dongtai/dongtai-redis
+dongtai/dongtai-mysql
+dongtai/dongtai-server
