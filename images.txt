@@ -1,1 +1,1 @@
-nacos/nacos:latest
+debian:bullseye-slim
