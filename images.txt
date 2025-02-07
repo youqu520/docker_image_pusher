@@ -1,1 +1,2 @@
-openjdk:17
+snipe/snipe-it:latest
+mariadb
