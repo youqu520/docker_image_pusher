@@ -1,2 +1,3 @@
-henrygd/beszel:latest
-henrygd/beszel-agent:latest
+mariadb:11.7
+victoriametrics/victoria-metrics:v1.95.1
+apache/hertzbeat:1.7.3
