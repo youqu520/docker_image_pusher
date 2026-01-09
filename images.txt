@@ -1,2 +1,2 @@
-openjdk:14
-openjdk:14-slim
+henrygd/beszel:latest
+henrygd/beszel-agent:latest
